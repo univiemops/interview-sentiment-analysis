@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*
+
+# Lexicons (downloaded, see README) and generated figures
+data/lexicons/*
+data/results/figures/*

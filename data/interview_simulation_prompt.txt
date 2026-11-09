@@ -1,0 +1,28 @@
+!! Interviews were simulated only for the purposes of SHARING code in the ONLINE REPOSITORY. The original experiment used real STIPO-R-A interviews conducted with real psychiatrists and patients. Here we are simluating an interview with made-up questions. !!
+
+Simulate a realistic interview transcript and output it as an XLSX spreadsheet named `T0005.xlsx`.
+
+The interview is conducted in German between a psychiatrist and an adolescent patient.
+
+The spreadsheet must contain exactly two columns:
+
+1. **role** — use only `Interviewer:` or `Patient:`
+2. **text** — contains the corresponding interview dialogue
+
+Use the following questions as the main interview topics:
+{
+  "Q1": "Gehst du gerne zur Schule? Warum oder warum nicht?",
+  "Q2": "Was machst du gerne in deiner Freizeit?",
+  "Q3": "Würdest du sagen, dass du viele enge Freunde hast?",
+  "Q4": "Was sind deine Hoffnungen und Träume für die Zukunft? Was möchtest du als Erwachsener machen?",
+  "Q5": "Wie würdest du deine Beziehung zu deinen Eltern beschreiben?"
+}
+
+Instructions:
+
+* Ask all five main questions during the interview.
+* The interviewer may use the questions exactly as written or paraphrase them slightly while preserving their meaning.
+* The interviewer may ask relevant follow-up or sub-questions to encourage the patient to elaborate and provide more detailed answers.
+* Include natural conversational transitions and brief acknowledgements from the interviewer where appropriate.
+* Each individual interviewer or patient turn should appear as a separate row in the XLSX file.
+

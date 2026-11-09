@@ -1,0 +1,19 @@
+{
+    "Q1": [
+        "Gehst du gerne zur Schule? Warum oder warum nicht?"
+    ],
+    "Q2": [
+        "Was machst du gerne in deiner Freizeit?",
+        "Schön, dass es zumindest in Kunst und Geschichte ein paar Lichtblicke gibt.",
+        "Wenn du nach so einem anstrengenden Schultag nach Hause kommst: Was machst du denn gerne in deiner Freizeit, um abzuschalten?"
+    ],
+    "Q3": [
+        "Würdest du sagen, dass du viele enge Freunde hast?"
+    ],
+    "Q4": [
+        "Was sind deine Hoffnungen und Träume für die Zukunft? Was möchtest du als Erwachsener machen?"
+    ],
+    "Q5": [
+        "Wie würdest du deine Beziehung zu deinen Eltern beschreiben?"
+    ]
+}
